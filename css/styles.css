@@ -440,6 +440,10 @@ border-radius: 2px;
     align-items: baseline;
 }
 
+.footer-logo {
+    flex-grow: 1;
+}
+
 .logo-footer {
     display: block;
     margin-bottom: 20px;
